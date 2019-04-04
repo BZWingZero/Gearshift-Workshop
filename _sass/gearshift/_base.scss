@@ -31,13 +31,18 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Quintessential',
   cursive;
   color: #443525;
-  font-weight: 400
+  font-weight: 400;
+  margin-bottom: ($spacing-unit / 8);
 }
 
 h3 {
   border-bottom: 2px solid $goldenrod;
   padding-left: 1em;
   font-size: 1.5em;
+}
+
+.accent {
+  color: $accent;
 }
 
 /**
@@ -53,7 +58,6 @@ p:first-child:first-letter {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -227,26 +231,120 @@ pre {
  * Tables
  */
 table {
-  margin-bottom: $spacing-unit;
+  margin-bottom: ($spacing-unit / 2);
   width: 100%;
+  border-spacing: unset;
+  font-size: $small-font-size;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
-  border-collapse: collapse;
-  border: 1px solid $grey-color-light;
-  tr {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+
+  .fa-stack {
+    border-radius: ($spacing-unit * 5);
+    background-color: rgba(184, 134, 11, .3);
+    font-family: $base-font-family;
+
+    .accent {
+      font-weight: bold;
+      font-size: $spacing-unit;
+      font-family: $base-font-family;
     }
   }
+
+  thead {
+    background-color: $goldenrod;
+    color: white;
+  }
   th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: ($spacing-unit / 10);
   }
-  th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
+  
+  tr {
+    &:nth-child(odd) {
+      background-color: rgba(184, 134, 11, .5)
+    }
   }
-  td {
-    border: 1px solid $grey-color-light;
+}
+
+/**
+ * Campaign Specifics
+ */
+gm-note{
+  background: rgba(184, 134, 11, .3);
+  display: inline-flex;
+  margin-top: ($spacing-unit / 4);
+  margin-bottom: ($spacing-unit / 2);
+  padding: ($spacing-unit / 4);
+  box-shadow: ($spacing-unit / 8) ($spacing-unit / 8) ($spacing-unit / 8) #443525;
+  i.fa {
+    flex: 0 1 auto;
+    align-self: center;
+    display: block;
+    margin-right: ($spacing-unit / 8);
+  }
+}
+
+.fa-stack {
+  &.logo {
+    background-color: rgba(184, 134, 11, .8);
+    border-radius: 100px;
+  }
+}
+
+classtable {
+  h4 {
+    font-size: ($spacing-unit * .75);
+    margin-bottom: ($spacing-unit / 10);
+  }
+
+  table {
+    table-layout: fixed;
+    thead {
+      background-color: unset;
+    }
+    tr:nth-child(odd) {
+      background-color: unset;
+    }
+
+    &+table {
+      margin-top: -($spacing-unit / 2);
+    }
+
+    &:nth-of-type(1) {
+      thead tr th {
+        background-color: unset;
+        letter-spacing: .5px;
+        padding: 0;
+        color: unset;
+      }
+      tbody tr:nth-child(odd) {
+        background-color: rgba(153, 123, 91, .5);
+        font-size: smaller;
+      }
+    }
+
+    &:nth-of-type(2) {
+      tbody tr td {
+        font-size: $spacing-unit;
+        padding: 0;
+        padding-bottom: .35em;
+        border-bottom: 1px solid $goldenrod;
+        border-left: 1px solid $goldenrod;
+
+        &:last-child {
+          border-right: 1px solid $goldenrod;
+        }
+      }
+
+      thead {
+        background-color: unset;
+        text-decoration: underline;
+        color: unset;
+        font-size: smaller;
+        border-left: 1px solid $goldenrod;
+
+        &:last-child {
+          border-right: 1px solid $goldenrod;
+        }
+      }
+    }
   }
 }

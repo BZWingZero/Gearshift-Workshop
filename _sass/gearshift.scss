@@ -8,7 +8,7 @@ $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit: 30px !default;
+$spacing-unit: 2em !default;
 
 $text-color: #000 !default;
 $background-color: #fff !default;
@@ -16,6 +16,7 @@ $brand-color: #443525 !default;
 
 $goldenrod: darkgoldenrod;
 $goldenrod-transparent: rgba(184, 134, 11, .5);
+$accent: #443525;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
