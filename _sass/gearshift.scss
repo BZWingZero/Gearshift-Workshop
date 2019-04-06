@@ -27,13 +27,29 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width: 1200px !default;
 
+// Breakpoints
+$grid-breakpoints: (
+xs: 0,
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px) !default;
+
 @mixin relative-font-size($ratio) {
 	font-size: $base-font-size * $ratio;
 }
 
+@mixin media-query($device) {
+	@media screen and (max-width: $device) {
+		@content;
+	}
+}
+
 // Import partials.
-@import "gearshift/dice",
+@import "../node_modules/bootstrap/scss/functions",
+				"../node_modules/bootstrap/scss/mixins/breakpoints",
+
+				"gearshift/dice",
 				"gearshift/base",
 				"gearshift/layout",
-				"gearshift/syntax-highlighting",
-				"../node_modules/bootstrap/scss/bootstrap-grid.scss";
+				"gearshift/syntax-highlighting";

@@ -1,3 +1,6 @@
+@include _assert-ascending($grid-breakpoints, "$grid-breakpoints");
+@include _assert-starts-at-zero($grid-breakpoints, "$grid-breakpoints");
+
 /**
  * Reset some basic elements
  */
@@ -183,20 +186,37 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: calc(100vw + (#{$spacing-unit} * .25));
+  // max-width: calc(#{map-get($grid-breakpoints, sm)} - (#{$spacing-unit} * .5));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: $spacing-unit * .25;
+  padding-left: $spacing-unit * .25;
   @extend %clearfix;
 
-  // @include media-query($on-laptop) {
-  //   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-  //   max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-  //   padding-right: $spacing-unit / 2;
-  //   padding-left: $spacing-unit / 2;
+  // @each $key, $bp in $grid-breakpoints {
+  //   @include media-breakpoint-up($key) {
+  //     max-width: calc(#{$bp} - (#{$spacing-unit} * 2));
+  //   }
   // }
+
+  @include media-breakpoint-up(md) {
+    max-width: calc(#{map-get($grid-breakpoints, md)} - (#{$spacing-unit}));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+  }
+
+  @include media-breakpoint-up(lg) {
+    max-width: calc(#{map-get($grid-breakpoints, lg)} - (#{$spacing-unit}));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+  }
+
+  @include media-breakpoint-up(xl) {
+    max-width: calc(#{map-get($grid-breakpoints, xl)} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit * 2;
+    padding-left: $spacing-unit * 2;
+  }
 }
 
 /**
@@ -258,7 +278,7 @@ table {
   }
   
   tr {
-    &:nth-child(odd) {
+    &:nth-child(even) {
       background-color: rgba(184, 134, 11, .5)
     }
   }
@@ -345,6 +365,21 @@ classtable {
           border-right: 1px solid $goldenrod;
         }
       }
+    }
+  }
+}
+
+cardwrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  card {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    @include media-breakpoint-up(md) {
+      flex: 0 1 47.5%;
     }
   }
 }

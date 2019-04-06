@@ -26,9 +26,28 @@ github_username:  bzwingzero
 
 # Build settings
 markdown: kramdown
+# markdown: CommonMarkGhPages
 theme: minima
 plugins:
   - jekyll-feed
+
+# Collections
+collections:
+  campaigns:
+    collections_dir: _campaigns
+    output: true
+  careers:
+    collections_dir: _careers
+    output: true
+  races:
+    collections_dir: _races
+    output: true
+  skills:
+    collections_dir: _skills
+    output: true
+  talents:
+    collections_dir: _talents
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
