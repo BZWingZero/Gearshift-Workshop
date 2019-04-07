@@ -11,7 +11,7 @@ Many races inhabit the Ventia, most are isolated to small tribes. Five primary r
 {% for race in site.races %}
 	{%- if race.overview != true -%}
 	<card>
-		{{ race.content }}
+		{{ race.content | markdownify}}
 	</card>
 	{%- endif -%}
 {% endfor %}

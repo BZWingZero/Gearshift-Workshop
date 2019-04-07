@@ -1,20 +1,18 @@
 ---
 title: Prologue
-layout: default
+layout: 2_col
 dark_experiments: '00'
-description: asdfasdfasdfa
+description: Mysterious Bombings
 ---
+# Mysterious Bombings
 
-<gm-note>
-<i class="fa fa-info-circle fa-2x fa-fw"></i>
+<i class="fa fa-map-marker fa-2x fa-fw"></i> The player characters start in a small park with buildings on three sides, and a street on the fourth. Along one side of the park a few food stalls are set up. A fountain is located in the middle of the park. About a dozen people of various ages are milling about. Stores line the far side of the street.
 
-For this campaign, its recommended the player characters all know each other and are familiar with the general layout of the city of Gearshift. For the opening scene, establish why the PCs have gathered in this park about midday. It could be as simple of a reason as "getting lunch at a popular food stand".
-</gm-note>
+<i class="fa dice fa-2x fa-fw">s</i> One of the stores across the street explodes and two **[Thugs]({% link _adversaries/thug.md %})** and a **[Flame Mage]({% link _adversaries/flame_mage_1.md %})** wearing masks run from the burning building. They are carrying a large bag and frequently look back over their shoulder.
 
-<i class="fa fa-map-marker fa-2x"></i> The player characters start in a small park with buildings on three sides, and a street on the fourth. Along one side of the park a few food stalls are set up. A fountain is located in the middle of the park. About a dozen people of various ages are milling about.
+If the players choose to engage the Thugs and Flame Mage, the **Guardian Corps** will arrive as the battle ends. If the players choose not to engage the Thugs and Flame Mage, **Guardian Corps** members should arrive almost immediately and begin to engage the targets. They will ask the players for their assistance protecting the civilians in the area as the players are the only ones who look capable.
 
-combat open two thugs one Flame esper
+If the Flame Mage is subdued before the thugs, a thug will attempt to take a nearby child hostage and negotiate for their freedom.
 
-As the Guardian Corps are cleaning up after the incident (checking on welfare, arresting thugs), one of them slips a PC a note. Note tells them to meet at $LOCATION that evening for a job.
+<i class="fa symbols fa-2x fa-fw">t</i> The Guardian Corps takes the adversaries into custody once they have been subdued. One of them thanks the player characters for their assistance with the incident. The guard also discretely asks the player characters if they would meet later at $LOCATION about a potential job opportunity.
 
-{%- include logo.html -%}

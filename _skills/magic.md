@@ -11,4 +11,3 @@ layout: default
 | Shock | *Gearshift Workshop* |
 | Force | *Gearshift Workshop* |
 | Growth | *Gearshift Workshop* |
-

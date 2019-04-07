@@ -10,12 +10,12 @@ The ability to use magic is innate For a character to use magic, they must have 
 
 {% for skill in site.skills %}
 	{%- if skill.overview != true and skill.new -%}
-		{{ skill.content }}
+		{{ skill.content | markdownify}}
 	{%- endif -%}
 {% endfor %}
 
 {% for skill in site.skills %}
 	{%- if skill.overview != true and skill.new != true -%}
-		{{ skill.content }}
+		{{ skill.content | markdownify}}
 	{%- endif -%}
 {% endfor %}

@@ -33,6 +33,9 @@ plugins:
 
 # Collections
 collections:
+  adversaries:
+    collections_dir: _adversaries
+    output: true
   campaigns:
     collections_dir: _campaigns
     output: true

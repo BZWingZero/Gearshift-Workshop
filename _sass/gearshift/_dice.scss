@@ -12,24 +12,6 @@
 	text-shadow: -1px 0 #000000, 0 1px #000000, 1px 0 #000000, 0 -1px #000000;
 }
 
-.note .setback,
-.note .boost,
-.note .challenge,
-.note .proficiency,
-.note .difficulty,
-.note .ability {
-	text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
-}
-
-.note td>.setback,
-.note td>.boost,
-.note td>.challenge,
-.note td>.proficiency,
-.note td>.difficulty,
-.note td.ability {
-	text-shadow: -1px 0 #000000, 0 1px #000000, 1px 0 #000000, 0 -1px #000000;
-}
-
 .boost {
 	font-family: Genesys1;
 	color: #76CDDB;
@@ -57,5 +39,23 @@
 .ability {
 	font-family: Genesys1;
 	color: #46AC4E;
+	text-shadow: -1px 0 #000000, 0 1px #000000, 1px 0 #000000, 0 -1px #000000;
+}
+
+.note .setback,
+.note .boost,
+.note .challenge,
+.note .proficiency,
+.note .difficulty,
+.note .ability {
+	text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+}
+
+.note td>.setback,
+.note td>.boost,
+.note td>.challenge,
+.note td>.proficiency,
+.note td>.difficulty,
+.note td.ability {
 	text-shadow: -1px 0 #000000, 0 1px #000000, 1px 0 #000000, 0 -1px #000000;
 }

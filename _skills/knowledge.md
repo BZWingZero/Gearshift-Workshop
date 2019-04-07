@@ -10,4 +10,3 @@ layout: default
 | &AElig;ther | *Gearshift Workshop* |
 | Geography | *Realms of Terrinoth (GNS03) pg. 81* |
 | Lore | *Realms of Terrinoth (GNS03) pg. 82* |
-

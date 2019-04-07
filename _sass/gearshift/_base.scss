@@ -38,6 +38,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: ($spacing-unit / 8);
 }
 
+h1 {
+  column-span: all;
+}
+
 h3 {
   border-bottom: 2px solid $goldenrod;
   padding-left: 1em;
@@ -318,6 +322,7 @@ classtable {
   table {
     table-layout: fixed;
     thead {
+      color: unset;
       background-color: unset;
     }
     tr:nth-child(odd) {
@@ -337,28 +342,26 @@ classtable {
       }
       tbody tr:nth-child(odd) {
         background-color: rgba(153, 123, 91, .5);
-        font-size: smaller;
       }
     }
 
     &:nth-of-type(2) {
-      tbody tr td {
+      td {
         font-size: $spacing-unit;
-        padding: 0;
-        padding-bottom: .35em;
+        padding: 0 0 ($spacing-unit / 6) 0;
         border-bottom: 1px solid $goldenrod;
         border-left: 1px solid $goldenrod;
+        line-height: ($spacing-unit / 2);
 
         &:last-child {
           border-right: 1px solid $goldenrod;
         }
       }
 
-      thead {
+      th {
         background-color: unset;
         text-decoration: underline;
         color: unset;
-        font-size: smaller;
         border-left: 1px solid $goldenrod;
 
         &:last-child {

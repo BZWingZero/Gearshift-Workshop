@@ -12,4 +12,3 @@ layout: default
 | Deception | *Core Rulebook (GNS01) pg. 56* |
 | Leadership | *Core Rulebook (GNS01) pg. 56* |
 | Negotiation | *Core Rulebook (GNS01) pg. 56* |
-

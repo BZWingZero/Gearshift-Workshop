@@ -22,4 +22,3 @@ layout: default
 | Streetwise | *Core Rulebook (GNS01) pg. 65* |
 | Survival | *Core Rulebook (GNS01) pg. 65* |
 | Vigilance | *Core Rulebook (GNS01) pg. 65* |
-
