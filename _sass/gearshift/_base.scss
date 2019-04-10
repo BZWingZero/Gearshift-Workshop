@@ -30,36 +30,8 @@ body {
   background-image: url("https://www.transparenttextures.com/patterns/paper-fibers.png");
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Quintessential',
-  cursive;
-  color: #443525;
-  font-weight: 400;
-  margin-bottom: ($spacing-unit / 8);
-}
-
-h1 {
-  column-span: all;
-}
-
-h3 {
-  border-bottom: 2px solid $goldenrod;
-  padding-left: 1em;
-  font-size: 1.25em;
-}
-
 .accent {
   color: $accent;
-}
-
-/**
- * Drop Cap for first letter of paragraph
- */
-p:first-child:first-letter {
-  float: left;
-  font-size: 3.2em;
-  font-family: inherit;
-  line-height: .8em
 }
 
 /**
@@ -69,6 +41,16 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+}
+
+/**
+ * Drop Cap for first letter of paragraph
+ */
+ h1+p:first-letter {
+  float: left;
+  font-size: 3.2em;
+  font-family: inherit;
+  line-height: .8em
 }
 
 /**
@@ -114,8 +96,23 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+ h1, h2, h3, h4, h5, h6 {
+  font-family: 'Quintessential',
+  cursive;
+  color: #443525;
+  font-weight: 400;
+  margin-bottom: ($spacing-unit / 8);
+}
+
+h1 {
+  font-size: 3em;
+  column-span: all;
+}
+
+h3 {
+  border-bottom: 2px solid $goldenrod;
+  padding-left: 1em;
+  font-size: 1.25em;
 }
 
 /**
@@ -291,6 +288,9 @@ table {
 /**
  * Campaign Specifics
  */
+ .fullwidth {
+   column-span: all;
+ }
 gm-note{
   background: rgba(184, 134, 11, .3);
   display: inline-flex;
