@@ -40,6 +40,12 @@ collections:
   careers:
     collections_dir: _careers
     output: true
+  equipment:
+    collections_dir: _equipment
+    output: true
+  magic:
+    collections_dir: _magic
+    output: true
   races:
     collections_dir: _races
     output: true
