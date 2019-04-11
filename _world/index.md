@@ -31,4 +31,4 @@ The barons and merchants have access the capital and &aelig;therite they need to
 * As the process for condensing the aetherpowder and making aetherite spread and the general public could get their hands on it, they began experimenting with it. This created a technological and industrial revolution with brilliant new minds using magic in ways the Mage orders never dreamed.
 * The leaders of the nations became nervous as many had maintained their grip of power through Mages, and with the populace now gaining access to the once-restricted power their control was threatened.
 
-**Themes**: invention, discovery, potential political upheaval
+**Themes**: invention, discovery, potential political upheaval 
