@@ -2,7 +2,7 @@
 title: The Humans
 layout: class
 ---
-# Humans
+## Humans
 One of the most common inhabitants in Ventia yet without a nation of their own, humans often associate with the organizations founded by the other races.
 <classtable markdown="block">
 

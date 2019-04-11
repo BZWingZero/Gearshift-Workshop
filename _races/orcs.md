@@ -3,7 +3,7 @@ title: The Orcs
 layout: class
 ---
 
-# Orcs
+## Orcs
 Tactical strength, the warrior orcs are masters on the battlefield. Unmatched throughout Ventia, the orcs of the **Warband Company** have fielded many arcane and technological advances in their conquest. Their expertise at combining technology and arcane energies into devices is unique.
 <classtable markdown="block">
 

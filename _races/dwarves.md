@@ -2,7 +2,7 @@
 title: The Dwarves
 layout: class
 ---
-# Dwarves
+## Dwarves
 Masters of the wrench, the technological prowess of the dwarves should not be underestimated. Their guild system organized under the **Tinkers Coalition** documents and builds the mundane world in Ventia.
 <classtable markdown="block">
 

@@ -2,7 +2,7 @@
 title: The Elves
 layout: class
 ---
-# Elves
+## Elves
 Distrustful of technology, the elves of Ventia are specialists in the magical arts and founded the **Arcane Sanctuary**. Scientists in their own right, they have focused their efforts on expanding the use of magic to better society throughout Ventia.
 <classtable markdown="block">
 

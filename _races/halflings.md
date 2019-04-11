@@ -2,7 +2,7 @@
 title: The Halflings
 layout: class
 ---
-# Halflings
+## Halflings
 Inquisitive fellows, the halflings of Ventia have formed the **Wanderlust Society**. They have dedicated themselves to mapping and cataloging the far corners of Ventia.
 <classtable markdown="block">
 
