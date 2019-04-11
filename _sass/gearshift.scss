@@ -46,8 +46,8 @@ xl: 1200px) !default;
 }
 
 // Import partials.
-@import "../node_modules/bootstrap/scss/functions",
-				"../node_modules/bootstrap/scss/mixins/breakpoints",
+@import "bootstrap-grid/functions",
+				"bootstrap-grid/breakpoints",
 
 				"gearshift/dice",
 				"gearshift/base",
