@@ -24,11 +24,11 @@ The barons and merchants have access the capital and &aelig;therite they need to
 {% endfor %}
 </skillblock>
 
-## Notes: 
+## Some unsorted info: 
 * For centuries mages seculded themselves and only the wealthiest (kings, lords etc) could afford their services; which they used to secure their dynasties. Magic wasn't a part of daily life for most.
 * A tense truce had been formed between the kingdoms and aside from minor flareups along borders, mostly stable.
 * About 78 years ago, a master aethertech at the Institute of Arcane Research figured out how to condense raw aether as a fine powder (aether powder). This powder could then be compressed and heated forming heptagonal prisms of pure aetherite. The magic contained in the crystals was miniscule compared to the skill of trained mages. However, these aetherite crystals could be used by anyone.
 * As the process for condensing the aetherpowder and making aetherite spread and the general public could get their hands on it, they began experimenting with it. This created a technological and industrial revolution with brilliant new minds using magic in ways the Mage orders never dreamed.
 * The leaders of the nations became nervous as many had maintained their grip of power through Mages, and with the populace now gaining access to the once-restricted power their control was threatened.
 
-themes: invention, discovery, potential political upheaval
+**Themes**: invention, discovery, potential political upheaval

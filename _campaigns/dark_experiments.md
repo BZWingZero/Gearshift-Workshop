@@ -2,6 +2,7 @@
 title: Dark Experiments
 layout: default
 overview: true
+hidden: true
 ---
 # Dark Experiments
 _Pulling back the veil on the dark side of Gearshift._

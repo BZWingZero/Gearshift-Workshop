@@ -7,3 +7,12 @@ layout: default
 {{ location.content | markdownify }}
 {%- endif -%}
 {% endfor %}
+
+{% for collection in site.collections %}
+{% assign collection_name = collection.label %}
+{% for page in collection.docs %}
+	{%- if page.overview == true and page.hidden != true -%}
+		## [{{ page.title }}]({{ page.url }})
+	{%- endif -%}
+{% endfor %}
+{% endfor %}
