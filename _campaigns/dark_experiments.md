@@ -16,6 +16,6 @@ For this campaign, its recommended the player characters all know each other and
 ### Chapters
 {% for chapter in site.campaigns %}
 	{%- if chapter.dark_experiments -%}
-		[**{{ chapter.dark_experiments}} {{ chapter.title }}**]({{ chapter.url }}) — {{ chapter.description}}
+		[**{{ chapter.dark_experiments}} {{ chapter.title }}**]({{ chapter.url | relative_url }}) — {{ chapter.description}}
 	{%- endif -%}
 {% endfor %}

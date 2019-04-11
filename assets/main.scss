@@ -1,18 +1,18 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700|Alegreya:400,700|Quintessential');
-@import "font-awesome/font-awesome";
+@import url('//fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700|Alegreya:400,700|Quintessential');
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @font-face {
 	font-family: Genesys;
-	src: url('/assets/fonts/Genesys.ttf') format('truetype');
+	src: url('fonts/Genesys.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: Genesys1;
-	src: url('/assets/fonts/EotE_Symbol-Regular_v1.otf') format('opentype');
+	src: url('fonts/EotE_Symbol-Regular_v1.otf') format('opentype');
 	font-weight: normal;
 	font-style: normal
 }

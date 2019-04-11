@@ -18,7 +18,7 @@ The barons and merchants have access the capital and &aelig;therite they need to
 <skillblock markdown="block">
 {% for location in site.world %}
 {%- if location.parent == 'ventia' -%}
-## [{{ location.title }}]({{ location.url }})
+## [{{ location.title }}]({{ location.url | relative_url }})
 {{ location.description }}
 {%- endif -%}
 {% endfor %}

@@ -17,10 +17,10 @@ title: Gearshift Workshop
 email: bzwingzero@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A setting for Genesys
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Gearshift-Workshop" # the subpath of your site, e.g. /blog
+url: "https://bzwingzero.github.io/Gearshift-Workshop/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bzwingzero
-github_username:  bzwingzero
+# github_username:  bzwingzero
 
 # Build settings
 markdown: kramdown
