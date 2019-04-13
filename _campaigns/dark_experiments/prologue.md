@@ -5,6 +5,7 @@ dark_experiments: '00'
 description: Mysterious Bombings
 ---
 # Mysterious Bombings
+## Dark Experiments 00 {#subtitle}
 
 <i class="fa fa-map-marker fa-2x fa-fw"></i> The player characters start in a small park with buildings on three sides, and a street on the fourth. Along one side of the park a few food stalls are set up. A fountain is located in the middle of the park. About a dozen people of various ages are milling about. Stores line the far side of the street.
 

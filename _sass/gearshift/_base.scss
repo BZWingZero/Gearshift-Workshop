@@ -115,6 +115,13 @@ h1 {
 
 h2 {
   font-size: 1.75em;
+  &#subtitle {
+    font-size: $spacing-unit / 2;
+    @include media-breakpoint-up(md) {
+      margin-top: -1.5em;
+      margin-left: 5em;
+    }
+  }
 }
 
 h3 {
