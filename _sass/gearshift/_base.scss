@@ -37,10 +37,14 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-p, blockquote, pre,
+blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+}
+
+p {
+  margin-bottom: .75em;
 }
 
 /**
@@ -119,6 +123,10 @@ h3 {
   font-size: 1.25em;
 }
 
+h4 {
+  font-weight: bold;
+}
+
 /**
  * Links
  */
@@ -184,6 +192,28 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0;
+  }
+}
+
+/**
+ * Definition Lists
+ */
+dl {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  dt {
+    flex: 0 1 15%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-bottom: ($spacing-unit / 4);
+  }
+  dd {
+    flex: 1 1 85%;
+    display: flex;
+    align-self: center;
+    margin-bottom: ($spacing-unit / 4);
   }
 }
 

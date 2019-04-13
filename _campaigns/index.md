@@ -1,6 +1,7 @@
 ---
 title: Campaigns
 layout: default
+permalink: /campaigns
 ---
 {% for campaign in site.campaigns %}
 	{%- if campaign.overview -%}
