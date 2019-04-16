@@ -22,4 +22,4 @@ enemy_rating: minion
 * **Abilities:** None  
 * **Equipment:** Rifle (Ranged Heavy; Damage: 7; Critical: 3; Range: Long;)
 
-Rusty Knife (Melee; Damage: 4; Critical: 3; Range: Engaged; Accurate 1), club (Melee; Damage: 5; Critical: 3; Range: Engaged), overcoat (+1 soak)
+<!-- Rusty Knife (Melee; Damage: 4; Critical: 3; Range: Engaged; Accurate 1), club (Melee; Damage: 5; Critical: 3; Range: Engaged), overcoat (+1 soak) -->
