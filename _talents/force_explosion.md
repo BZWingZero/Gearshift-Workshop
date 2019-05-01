@@ -5,7 +5,7 @@ tier: 2
 new: true
 ---
 ### Force Explosion
-**Tier:** 2 
+**Tier:** 2  
 **Activation:** Passive  
 **Ranked:** No  
 _A character must have ranks in the **Force** skill to take this talent_  
