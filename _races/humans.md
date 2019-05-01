@@ -4,6 +4,8 @@ layout: class
 ---
 ## Humans
 One of the most common inhabitants in Ventia yet without a nation of their own, humans often associate with the organizations founded by the other races.
+
+Common Human names: Sirion, Javan, Isaac, Tabitha, Mara, Lucinda
 <classtable markdown="block">
 
 |<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|

@@ -5,6 +5,8 @@ layout: class
 
 ## Orcs
 Tactical strength, the warrior orcs are masters on the battlefield. Unmatched throughout Ventia, the orcs of the **Warband Company** have fielded many arcane and technological advances in their conquest. Their expertise at combining technology and arcane energies into devices is unique.
+
+Common Orc names: Putyuk, Onartok, Tonraq, Kapik, Anuun
 <classtable markdown="block">
 
 |<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">3</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">1</i></span>|

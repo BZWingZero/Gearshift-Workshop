@@ -4,6 +4,8 @@ layout: class
 ---
 ## Dwarves
 Masters of the wrench, the technological prowess of the dwarves should not be underestimated. Their guild system organized under the **Tinkers Coalition** documents and builds the mundane world in Ventia.
+
+Common Dwarven names: Adalwin, Carsten, Ekhart, Margit, Irma, Raffaela
 <classtable markdown="block">
 
 |<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">1</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">3</i></span>|<span class="fa fa-stack fa-2x"><i class="fa fa-fw fa-cog fa-inverse fa-stack-2x" aria-hidden="true"></i><i class="fa fa-stack-1x accent">2</i></span>|

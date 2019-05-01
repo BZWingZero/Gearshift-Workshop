@@ -15,8 +15,10 @@ If the players choose to engage the Thugs and Flame Mage, the **Guardian Corps.*
 
 If the Flame Mage is subdued before the thugs, a thug will attempt to take a nearby child hostage and negotiate for their freedom.
 
-<i class="fa symbols fa-2x fa-fw">t</i> The Guardian Corps takes the adversaries into custody once they have been subdued. One of them thanks the player characters for their assistance with the incident. The guard also discretely asks the player characters if they would meet the next day during the guard's regular patrol at the **Sixth Street Arcade** about a potential job opportunity.
+<i class="fa symbols fa-2x fa-fw">t</i> The Guardian Corps takes the adversaries into custody once they have been subdued. One of them, an Orc named Sangilak thanks the player characters for their assistance with the incident. Sangilak also discretely asks the player characters if they would meet the next day during the guard's regular patrol at the **Sixth Street Arcade** about a potential job opportunity.
 
 <i class="fa fa-map-marker fa-2x fa-fw"></i> The Sixth Street Arcade in District 5 is a wide boulevard that now houses a world-famous covered market. Stalls fill the archway-lined street and an intricate ironworks and glass ceiling protects the market below from the elements. 
 
-The guard tells the group about a series of bombings which have been happening across the city. There haven't been many injuries among the public; quite a few Guardian Corps. members have become casualties while helping to clear civilians after an initial blast. The blasts seem to come in groupings, with an initial large blast followed by at least one smaller blast delayed from the first. The **Guardian Corps.** has been spread thin investigating the rumors of a new drug that increases the potency of a user's magic that they haven't had the manpower to look into the bombings.
+Sangilak tells the group about a series of bombings which have been happening across the city. There haven't been many injuries among the public; quite a few Guardian Corps. members have become casualties while helping to clear civilians after an initial blast. The blasts seem to come in groupings, with an initial large blast followed by at least one smaller blast delayed from the first. 
+
+The **Guardian Corps.** has been spread thin investigating the rumors of a new drug that increases the potency of a user's magic that they haven't had the manpower to look into the bombings.
