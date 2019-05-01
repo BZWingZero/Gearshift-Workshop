@@ -7,4 +7,4 @@ The &AElig;thertech sees the laws of physics as guidelines to be ignored when co
 
 The &AElig;thertech counts the following as career skills: **&AElig;ther**, **Coercion**, **Mechanics**, **Medicine**, **Operating**, **Perception** , and **Skulduggery**.
 
-The &AElig;thertech may also choose any one magic skill **Moderate**, **Fluid**, **Shock**, **Force**, or **Growth**, as a career skill.
+The &AElig;thertech may also choose any one magic skill **Moderate**, **Flow**, **Shock**, **Force**, or **Growth**, as a career skill.
