@@ -48,7 +48,7 @@ The largest retail district in the city. Across the continent of Ventia, the lar
 #### District 6
 Manufacturing district
 #### District 7
-Primary port through which goods entern and leave the city. Home to a large railyard for raw materials to come in and finished goods to ship out as well as airship landing docks for passenger travel. Logistics companies often make their headquarters in this district, and warehouses line the streets.
+Primary port through which goods enter and and leave the city. Home to a large railyard for raw materials to come in and finished goods to ship out. Logistics companies often make their headquarters in this district, and warehouses line the streets. **Station Square** is the largest passenger rail terminal. **Infinity Tower** stands above the station, and is where majority of the airshops dock.
 </skillblock>
 <skillblock markdown="block">
 ### Magictown
