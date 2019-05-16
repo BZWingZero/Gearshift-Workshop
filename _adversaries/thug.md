@@ -12,11 +12,11 @@ enemy_rating: minion
 
 |Soak|W.Threshold|M/R Defense|
 | :-: | :-: | :-: |
-|4|4|0 &ndash; 0|
+|3|4|0 &ndash; 0|
 
 </classtable>
 
 * **Skills (group only):** Brawl, Coercion, Melee  
 * **Talents:** None  
 * **Abilities:** None  
-* **Equipment:** Rusty Knife (Melee; Damage: 4; Critical: 3; Range: Engaged; Accurate 1), club (Melee; Damage: 5; Critical: 3; Range: Engaged), overcoat (+1 soak)
+* **Equipment:** Rusty Knife (Melee; Damage: 3; Critical: 3; Range: Engaged; Accurate 1), club (Melee; Damage: 5; Critical: 3; Range: Engaged), overcoat (+1 soak)
