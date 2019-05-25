@@ -20,9 +20,11 @@ The Guardian Corps takes the adversaries into custody once they have been subdue
 
 #### Encounter 2
 Station Square is a large, white marble building with gothic stonework located in District 7. Above Station Square rises the iron latticework of Infinity Tower. Two of the tower's legs arch over the main entrance to the station. The main entrance opens into an atrium, with ticketing booths lining the left and right walls. Long rows of benches fill the middle of the atrium, and a grand starcase at the far end decends to the platforms below. Beyond the staircase, an elegant bistro occupies a patio overlooking the incoming trains. Near the entrance are elevators to Infinity Tower's skydeck.
-<!-- <i class="fa fa-map-marker fa-2x fa-fw"></i> The Sixth Street Arcade in District 5 is a wide boulevard that now houses a world-famous covered market. Stalls fill the archway-lined street and an intricate ironworks and glass ceiling protects the market below from the elements.  -->
 
-Sangilak tells the group about a series of bombings which have been happening across the city. There haven't been many injuries among the public; quite a few Guardian Corps. members have become casualties while helping to clear civilians after a device is found. 
+Sangilak tells the group about a pair of bombing which have happened in the city. The only injuries so far have been to members of the Guardian Corps. as they attempted to evacuate civilians from the area. 
+
+The first incident ocurred in a lab at the **Institute of Arcane Research**. Eyewitnesses reported a loud explosion, blowing out the windows of the building about 20 minutes before a class was scheduled to start in that lab.
+<!-- <i class="fa fa-map-marker fa-2x fa-fw"></i> The Sixth Street Arcade in District 5 is a wide boulevard that now houses a world-famous covered market. Stalls fill the archway-lined street and an intricate ironworks and glass ceiling protects the market below from the elements.  -->
 
 The **Guardian Corps.** has been spread thin investigating the rumors of a new drug that increases the potency of a user's magic that they haven't had the manpower to look into the bombings.
 
