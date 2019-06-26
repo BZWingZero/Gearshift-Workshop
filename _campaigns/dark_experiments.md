@@ -28,8 +28,9 @@ A few symbols are used throughout this campaign:
 </skillblock>
 
 ### Chapters
-{% for chapter in site.campaigns %}
+{% assign sorted_pages = site.campaigns | sort:"dark_experiments" %}
+{% for chapter in sorted_pages %}
 	{%- if chapter.dark_experiments -%}
-		[**{{ chapter.dark_experiments}} {{ chapter.title }}**]({{ chapter.url | relative_url }}) — {{ chapter.description}}
+		[**{{ chapter.dark_experiments}} {{ chapter.title }}**]({{ chapter.url | relative_url }}) — {{ chapter.description}}<br>
 	{%- endif -%}
 {% endfor %}
